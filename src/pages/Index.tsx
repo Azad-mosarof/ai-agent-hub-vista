@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/ui/button";
-import { StatsCard } from "@/components/ui/stats-card.jsx";
-import { FeatureCard } from "@/components/ui/feature-card.jsx";
+import { StatsCard } from "@/components/ui/stats-card";
+import { FeatureCard } from "@/components/ui/feature-card";
 import {
   Brain,
   Bot,
